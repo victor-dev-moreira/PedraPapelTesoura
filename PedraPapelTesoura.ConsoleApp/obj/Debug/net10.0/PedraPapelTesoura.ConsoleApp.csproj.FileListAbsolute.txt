@@ -1,0 +1,14 @@
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\bin\Debug\net10.0\PedraPapelTesoura.ConsoleApp.exe
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\bin\Debug\net10.0\PedraPapelTesoura.ConsoleApp.deps.json
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\bin\Debug\net10.0\PedraPapelTesoura.ConsoleApp.runtimeconfig.json
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\bin\Debug\net10.0\PedraPapelTesoura.ConsoleApp.dll
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\bin\Debug\net10.0\PedraPapelTesoura.ConsoleApp.pdb
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\PedraPapelTesoura.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\PedraPapelTesoura.ConsoleApp.AssemblyInfoInputs.cache
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\PedraPapelTesoura.ConsoleApp.AssemblyInfo.cs
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\PedraPapelTesoura.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\PedraPapelTesoura.ConsoleApp.dll
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\refint\PedraPapelTesoura.ConsoleApp.dll
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\PedraPapelTesoura.ConsoleApp.pdb
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\PedraPapelTesoura.ConsoleApp.genruntimeconfig.cache
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\ref\PedraPapelTesoura.ConsoleApp.dll
