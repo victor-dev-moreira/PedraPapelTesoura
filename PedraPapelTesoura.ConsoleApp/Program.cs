@@ -19,7 +19,6 @@ class Program
 
             if (desejaContinuar != "S")
                 break;
-            Console.Read();
         }
     }
 }
