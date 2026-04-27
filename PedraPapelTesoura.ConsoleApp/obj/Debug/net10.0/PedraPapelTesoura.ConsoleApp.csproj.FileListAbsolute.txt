@@ -12,3 +12,4 @@ C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\D
 C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\PedraPapelTesoura.ConsoleApp.pdb
 C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\PedraPapelTesoura.ConsoleApp.genruntimeconfig.cache
 C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\ref\PedraPapelTesoura.ConsoleApp.dll
+C:\AcademiaDoProgramador\c#\PedraPapelTesoura\PedraPapelTesoura.ConsoleApp\obj\Debug\net10.0\PedraPapelTesoura.ConsoleApp.sourcelink.json
