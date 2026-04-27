@@ -1,6 +1,6 @@
 #PedraPapelTesoura
 
-![Jogo Pedra Papel Tesoura que roda em terminal](./.docs/calculadora.gif)
+![Jogo Pedra Papel Tesoura que roda em terminal](/PedraPapelTesoura.ConsoleApp/.docs/pedraPapelTesoura.gif)
 
 ## Projeto
 
